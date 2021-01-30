@@ -1,3 +1,3 @@
 User-agent: *
 allow: /
-allow:http://www.8dsport.com/baidusitemap.xml
+allow:https://www.8dsport.com/baidusitemap.xml
