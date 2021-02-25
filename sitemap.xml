@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.8dsport.com/categories/%E6%A4%B0%E5%AD%90500.html</loc>
+    
+    <lastmod>2021-02-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/yeezy350/20212232132.html</loc>
+    
+    <lastmod>2021-02-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/yeezy500/20212232131.html</loc>
+    
+    <lastmod>2021-02-25</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.8dsport.com/yeezy380/20212222134.html</loc>
     
     <lastmod>2021-02-25</lastmod>
@@ -553,6 +574,13 @@
   
   <url>
     <loc>https://www.8dsport.com/yeezy380/</loc>
+    <lastmod>2021-02-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/yeezy500/</loc>
     <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
