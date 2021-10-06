@@ -91,7 +91,7 @@ body .new_foot{height:8%;max-width:640px;margin:0 auto;background:#000;}
 .hos_foot li.li1 a:nth-child(4) i{background:url("https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/guochao.png") no-repeat center center;background-size:45%;}
 /* .hos_foot li.li1 a:nth-child(4) i{background:url("../../images/yh-ico.png") no-repeat center center;background-size:45%;} */
 .hos_foot li.li1 a:nth-child(5) i{background:url("https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/so.png") no-repeat center center;background-size:38%;}
-.hos_foot .jy em{background: red none repeat scroll 0 0;border-radius: 1em;color: #fff;display: inline-block;font-size: 14px;font-style: normal;font-weight: 700;height: 20px;left: 59%;line-height: 18px;position: absolute;text-align: center;top: 17%;width: 20px;}
+.hos_foot .jy em{border-radius: 1em;color: #fff;display: inline-block;font-size: 14px;font-style: normal;font-weight: 700;height: 20px;left: 59%;line-height: 18px;position: absolute;text-align: center;top: 17%;width: 20px;}
 .moves img{-webkit-animation:pulse 1s .2s infinite both;animation:pulse 1s 1s infinite both;-moz-animation:pulse 1s .2s infinite both;-o-animation:pulse 1s .2s infinite both;-ms-animation:pulse 1s .2s infinite both;}
 @keyframes pulse{
 	0%{-webkit-transform:scale(1);-ms-transform:scale(1);transform:scale(1)}
