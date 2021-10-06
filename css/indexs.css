@@ -159,14 +159,14 @@ a[title='站长统计']{display:none;}
 .end{margin-top:0.35rem;}
 .searchin{width: 50%; height: 0.4rem;} 
 .right_txt{display: inline-block;
-    background: url(../../image/guanbi.svg)no-repeat;height: 55%;display: block;
+    background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/guanbi.svg)no-repeat;height: 55%;display: block;
     width: 10%;
     position: absolute;
     left: 86%;
     top: 28%;
     z-index: 36;}
 
-.sosuo{ background: url(../../image/sousuo.svg)no-repeat;height: 40%;display: block;
+.sosuo{ background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/sousuo.svg)no-repeat;height: 40%;display: block;
     width: 10%;
     position: absolute;
     left: 69%;
