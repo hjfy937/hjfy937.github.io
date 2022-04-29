@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.8dsport.com/%E6%BD%AE%E9%9E%8B%E7%A9%BF%E6%90%AD/20224292349.html</loc>
+    
+    <lastmod>2022-04-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/%E6%BD%AE%E9%9E%8B%E7%A9%BF%E6%90%AD/20224292249.html</loc>
+    
+    <lastmod>2022-04-29</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/categories/%E6%BD%AE%E9%9E%8B%E7%A9%BF%E6%90%AD.html</loc>
+    
+    <lastmod>2022-04-29</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.8dsport.com/yeezy350/20224282154.html</loc>
     
     <lastmod>2022-04-28</lastmod>
@@ -178,13 +199,6 @@
   
   <url>
     <loc>https://www.8dsport.com/categories/%E5%9B%BD%E6%BD%AE%E6%9C%8D%E8%A3%85.html</loc>
-    
-    <lastmod>2021-10-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.8dsport.com/categories/%E5%9B%BD%E6%BD%AE%E9%9E%8B%E5%AD%90.html</loc>
     
     <lastmod>2021-10-05</lastmod>
     
@@ -760,38 +774,59 @@
 
   <url>
     <loc>https://www.8dsport.com/</loc>
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
+  <url>
+    <loc>https://www.8dsport.com/tags/%E5%A5%B3%E7%94%9F%E5%A4%8F%E5%AD%A3%E6%BD%AE%E9%9E%8B%E7%A9%BF%E6%90%AD/</loc>
+    <lastmod>2022-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/tags/Nike-Dunk-Low/</loc>
+    <lastmod>2022-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
     <loc>https://www.8dsport.com/yeezy350/</loc>
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.8dsport.com/yeezy380/</loc>
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.8dsport.com/yeezy500/</loc>
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.8dsport.com/yeezy700/</loc>
-    <lastmod>2022-04-28</lastmod>
+    <lastmod>2022-04-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.8dsport.com/%E6%BD%AE%E9%9E%8B%E7%A9%BF%E6%90%AD/</loc>
+    <lastmod>2022-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
