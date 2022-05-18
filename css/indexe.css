@@ -159,14 +159,14 @@ a[title='站长统计']{display:none;}
 .end{margin-top:0.35rem;}
 .searchin{width: 50%; height: 0.4rem;} 
 .right_txt{display: inline-block;
-    background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/guanbi.svg)no-repeat;height: 55%;display: block;
+    background: url(https://www.8dsport.com/image/guanbi.svg)no-repeat;height: 55%;display: block;
     width: 10%;
     position: absolute;
     left: 86%;
     top: 28%;
     z-index: 36;}
 
-.sosuo{ background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/sousuo.svg)no-repeat;height: 40%;display: block;
+.sosuo{ background: url(https://www.8dsport.com/image/sousuo.svg)no-repeat;height: 40%;display: block;
     width: 10%;
     position: absolute;
     left: 69%;
@@ -345,14 +345,14 @@ a[title='站长统计']{display:none;}
     }
     .fenye-left {
         display: inline-block;
-        background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/left.svg)no-repeat;
+        background: url(https://www.8dsport.com/image/left.svg)no-repeat;
         height: 12px;
         width: 12px;
         vertical-align: -2px;
     }     
     .fenye-right {
         display: inline-block;
-        background: url(https://cdn.jsdelivr.net/gh/hjfy937/hjfy937.github.io/image/right.svg)no-repeat;
+        background: url(https://www.8dsport.com/image/right.svg)no-repeat;
         height: 12px;
         width: 12px;
         vertical-align: -2px;
