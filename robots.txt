@@ -1,3 +1,2 @@
 User-agent: *
 allow: /
-allow:https://www.8dsport.com/sitemap.xml
